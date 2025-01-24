@@ -1,0 +1,131 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "t2PqH@example.com",
+      "password": "Bret"
+    },
+    {
+      "username": "abdurrahmanabid33",
+      "email": "ab@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "acceptTerms": true,
+      "id": "5c03"
+    },
+    {
+      "id": "b959",
+      "username": "abcd",
+      "email": "qbcd@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "acceptTerms": true
+    }
+  ],
+  "budget": [
+    {
+      "id": "1",
+      "totalBudget": 1323,
+      "remainingBudget": 230,
+      "userId": "5c03"
+    },
+    {
+      "id": "2412",
+      "totalBudget": 200,
+      "remainingBudget": 123,
+      "userId": "b959"
+    }
+  ],
+  "transaction": [
+    {
+      "id": "129e",
+      "amount": "63",
+      "dateTime": "1998-10-23T06:54",
+      "category": "Utilities",
+      "description": "Sequi nihil ratione ",
+      "userId": "5c03"
+    },
+    {
+      "id": "d3a7",
+      "amount": "63",
+      "dateTime": "1998-10-23T06:54",
+      "category": "Utilities",
+      "description": "Sequi nihil ratione ",
+      "userId": "5c03"
+    },
+    {
+      "id": "e6d6",
+      "amount": "63",
+      "dateTime": "1998-10-23T06:54",
+      "category": "Utilities",
+      "description": "Sequi nihil ratione ",
+      "userId": "5c03"
+    },
+    {
+      "id": "a354",
+      "amount": "63",
+      "dateTime": "1998-10-23T06:54",
+      "category": "Utilities",
+      "description": "Sequi nihil ratione ",
+      "userId": "5c03"
+    },
+    {
+      "id": "2365",
+      "amount": "63",
+      "dateTime": "1998-10-23T06:54",
+      "category": "Utilities",
+      "description": "Sequi nihil ratione ",
+      "userId": "5c03"
+    },
+    {
+      "id": "9ec8",
+      "amount": "63",
+      "dateTime": "1998-10-23T06:54",
+      "category": "Utilities",
+      "description": "Sequi nihil ratione ",
+      "userId": "5c03"
+    },
+    {
+      "id": "13dd",
+      "amount": "63",
+      "dateTime": "1998-10-23T06:54",
+      "category": "Utilities",
+      "description": "Sequi nihil ratione ",
+      "userId": "5c03"
+    },
+    {
+      "id": "3e18",
+      "amount": "63",
+      "dateTime": "1998-10-23T06:54",
+      "category": "Utilities",
+      "description": "Sequi nihil ratione ",
+      "userId": "5c03"
+    },
+    {
+      "id": "fcae",
+      "amount": "63",
+      "dateTime": "1998-10-23T06:54",
+      "category": "Utilities",
+      "description": "Sequi nihil ratione ",
+      "userId": "5c03"
+    },
+    {
+      "id": "6606",
+      "amount": "70",
+      "dateTime": "1996-01-02T04:05",
+      "category": "Transportation",
+      "description": "Quo cupidatat cupida",
+      "userId": "5c03"
+    },
+    {
+      "id": "71bc",
+      "amount": "77",
+      "dateTime": "2024-11-07T21:10",
+      "category": "Shopping",
+      "description": "Eu anim voluptatem ",
+      "userId": "b959"
+    }
+  ]
+}
