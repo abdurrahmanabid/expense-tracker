@@ -38,6 +38,7 @@ export default function App() {
             <Route path="/budgets/add-budget" element={<AddBudget />} />
             <Route path="/settings" element={<Settings />} />
             <Route path="/profile" element={<Settings />} />
+            <Route path="/profile/update-profile" element={<UpdateProfile />} />
             <Route path="/transaction-history" element={<TransactionHistory />} />
             <Route
               path="/settings/update-profile"
